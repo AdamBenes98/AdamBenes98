@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cycling, Motorsport
 - 🌱 I’m currently learning HTML and Python
 - 📫 How to reach me: Adamekbenes@gmail.com
-- ⚡ Fun fact: Im in Grade 8
+- ⚡ Fun fact: Im in the eight Grade in Switzerland
 
 <!---
 AdamBenes98/AdamBenes98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
