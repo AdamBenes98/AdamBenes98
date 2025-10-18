@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in Cycling, Motorsport
+- 👀 I’m interested in Cycling, Motorsports and Aerospace Engineering
 - 🌱 I’m currently learning HTML and Python
-- 📫 How to reach me: Adamekbenes@gmail.com
 - ⚡ Fun fact: Im an Mechanical Engineer, im 16, i was born in the Czech Republic
 
 <!---
